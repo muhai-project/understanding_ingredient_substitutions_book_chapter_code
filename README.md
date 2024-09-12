@@ -57,7 +57,7 @@ understanding_ingredient_substitutions_book_chapter_code
 # Keywords: 
 
 # License: 
-https://creativecommons.org/licenses/by/4.0/legalcode
+Apache license 2.0
 # Logo: 
 
 # Name: 
