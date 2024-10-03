@@ -6,85 +6,42 @@ They are all put together to create a grounded version of the Recipe1MSubs, wher
 Moreover, the ignredients are related with FoodOn concepts, enabling the agent to develop and human-centric understanding of provided ingredient substitution examples.
 The experimental setup uses this produced grounded version of Recipe1MSubs, to test and evaluate different agent policies.
 
-# Acknowledgement: 
+# Acknowledgement 
 This work was funded by the European MUHAI project (Horizon 2020 research and innovation program) under grant agreement number 951846, the Vrije Universiteit Amsterdam and Bremen University. We thank Ilaria Tiddi, Annette ten Teije and Frank van Harmelen for their continuous support and guidance.
 # Application domain: 
 Semantc web
 # Citation: 
 
-# Code of Conduct: 
-
-# Code repository: 
+# Code repository 
 https://github.com/muhai-project/understanding_ingredient_substitutions_book_chapter_code
-# Contact: 
+# Contact
 Nikolaos Kondylidis
-# Contribution guidelines: 
 
-# Contributors: 
+# Contributors 
 Nikolaos Kondylidis, Rachel Ringe
-# Creation date: 
+# Creation date 
 14-07-2023
-# Description: 
+# Description 
 This code allows to replicate the experiments presented in the cpater "Understanding Ingredient Substitutions" of the Second Book of the MUHAI Project regarding understanding everyday activities.
-# DockerFile: 
 
-# Documentation: 
-
-# Download URL: 
-
-# DOI: 
-
-# Executable examples: 
-
-# FAQ: 
-
-# Forks count: 
-0
-# Forks url: 
-
-# Full name: 
+# Full name 
 Understanding Ingredient Substitutions
-# Full title: 
+
+# Full title 
 understanding_ingredient_substitutions_book_chapter_code
-# Images: 
 
-# Installation instructions: 
-
-# Invocation: 
-
-# Issue tracker: 
-
-# Keywords: 
-
-# License: 
+# License 
 Apache license 2.0
-# Logo: 
 
-# Name: 
-
-# Ontologies: 
-
-# Owner: 
+# Owner 
 MUHAI Project
-# Owner type: 
+# Owner type 
 organization
-# Package distribution: 
 
-# Programming languages: 
+# Programming languages 
 Python
-# Related papers: 
+# Related papers 
 TBA
-# Releases (GitHub only): 
 
-# Repository Status: 
+# Repository Status 
 Inactive
-# Requirements: 
-
-# Support: 
-
-# Stargazers count: 
-
-# Scripts: Snippets of code contained in the repository
-# Support channels: 
-# Usage examples: 
-# Workflows: 
