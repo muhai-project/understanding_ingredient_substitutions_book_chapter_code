@@ -10,7 +10,7 @@ The experimental setup uses this produced grounded version of Recipe1MSubs, to t
 This work was funded by the European MUHAI project (Horizon 2020 research and innovation program) under grant agreement number 951846, the Vrije Universiteit Amsterdam and Bremen University. We thank Ilaria Tiddi, Annette ten Teije and Frank van Harmelen for their continuous support and guidance.
 # Application domain
 Semantc web
-# Citation: 
+# Citation
 
 # Code repository 
 https://github.com/muhai-project/understanding_ingredient_substitutions_book_chapter_code
